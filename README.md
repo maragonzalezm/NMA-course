@@ -3,3 +3,6 @@ The objective of this code is to calculate the mean brain activity per brain reg
 and compare it to other regions in order to discover which brain refgions are more active before and after a task is being made.
 
 The Steinmetz et al. (2019) dataset was used for this project and can be found here: 
+"https://osf.io/agvxh/download"
+"https://osf.io/uv3mw/download"
+"https://osf.io/ehmw2/download"
